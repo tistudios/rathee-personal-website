@@ -1,0 +1,25 @@
+title: The CTO's Blog
+email: rathee@hopintech.com
+description: Co-Founder & CTO of Hop In Microtransit with a blog.
+baseurl: /
+url: 'https://www.rathee.ca'
+twitter_username: ''
+github_username: tistudios
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-typogrify
+  - jemoji
+  - jekyll-mentions
+  - jekyll-analytics
+  - jekyll-auto-image
+  - jekyll-manager
+image: /
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-141512772-1
+    anonymizeIp: false
